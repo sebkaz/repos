@@ -8,6 +8,9 @@
 - [Quantum Anomaly detection](https://github.com/Qottmann/Quantum-anomaly-detection)
 - [Quatnum single layter perceptron](https://github.com/amacaluso/Quantum-Single-Layer-Perceptron)
 - [Qiskit Textbook](https://github.com/plipmanbg/Qiskit-textbook)
+- [QProg Tutoria](https://github.com/jmiszczak/qprog-tutorial) Jarek Miszczak course
+- [learn quantum](https://github.com/JohnCoogan/learnquantum)
+- [QPCA](https://github.com/amartinfer/QPCA)
 
 ### To Do
 
@@ -22,4 +25,6 @@
 - [Python Machine Learning book](https://github.com/rasbt/python-machine-learning-book)
 - [Azure Machine Learning notebooks](https://github.com/Azure/MachineLearningNotebooks)
 - [Fraud Detection papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
+- [Thinking in tensor writing in pytorch](https://github.com/stared/thinking-in-tensors-writing-in-pytorch)
+- [Chris Albon ML](https://github.com/chris1610/pbpython)
 - 
