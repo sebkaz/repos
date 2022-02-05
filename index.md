@@ -27,4 +27,4 @@
 - [Fraud Detection papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 - [Thinking in tensor writing in pytorch](https://github.com/stared/thinking-in-tensors-writing-in-pytorch)
 - [Chris Albon ML](https://github.com/chris1610/pbpython)
-- 
+- [PySark and ML](https://github.com/susanli2016/PySpark-and-MLlib)
